@@ -1,0 +1,61 @@
+TmaxDistanceOfBinaryTree
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/maxDistanceOfBinaryTree/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Products/Debug/maxDistanceOfBinaryTree normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/Objects-normal/x86_64/maxDistanceOfBinaryTree.LinkFileList
+c00000000515BA31400000000000000AE
+t1364960020
+s174
+
+N/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Products/Debug/maxDistanceOfBinaryTree
+t2
+s0
+
+N/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/maxDistanceOfBinaryTree/main.cpp
+c00000000515BA31200000000000006AF
+t1364960018
+s1711
+i<iostream>
+
+CBuild AST from /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/maxDistanceOfBinaryTree/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd2e0aa94da0bb741^03b6af94da0bb741^---0#1#0#--18"Check dependencies36"B55061D9-F383-4CB4-A8D0-37D7D9E1A73E-
+
+CCompileC Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/Objects-normal/x86_64/main.o /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/maxDistanceOfBinaryTree/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s386652820.691502
+e386652821.202060
+r1
+xCompileC
+xBuild/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/Objects-normal/x86_64/main.o
+x/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/maxDistanceOfBinaryTree/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/maxDistanceOfBinaryTree/main.cpp3c4ab194da0bb741^9db93395da0bb741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/maxDistanceOfBinaryTree/main.cpp0000000000000000^3461"CompileC Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/Objects-normal/x86_64/main.o maxDistanceOfBinaryTree/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/maxDistanceOfBinaryTree-generated-files.hmap -I/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/maxDistanceOfBinaryTree-own-target-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/maxDistanceOfBinaryTree-all-target-headers.hmap -iquote /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/maxDistanceOfBinaryTree-project-headers.hmap -I/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/DerivedSources/x86_64 -I/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/DerivedSources -F/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Products/Debug -MMD -MT dependencies -MF /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/Objects-normal/x86_64/main.dia -c /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/maxDistanceOfBinaryTree/main.cpp -o /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/Objects-normal/x86_64/main.o36"7DBC0484-8C2D-4ECC-ADC7-B874C855D28F-
+
+CLd /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Products/Debug/maxDistanceOfBinaryTree normal x86_64
+s386652821.208855
+e386652821.407973
+r1
+xLd
+x/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Products/Debug/maxDistanceOfBinaryTree
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Products/Debug/maxDistanceOfBinaryTree768a3595da0bb741^3f716895da0bb741^---0#0#0#--916"Ld Build/Products/Debug/maxDistanceOfBinaryTree normal x86_64    cd /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Products/Debug -F/Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Products/Debug -filelist /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Intermediates/maxDistanceOfBinaryTree.build/Debug/maxDistanceOfBinaryTree.build/Objects-normal/x86_64/maxDistanceOfBinaryTree.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Cong/Desktop/Work/algorithm/maxDistanceOfBinaryTree/Build/Products/Debug/maxDistanceOfBinaryTree36"E9E8734E-ED1E-4BBE-84ED-CE3764E6B424-
+
